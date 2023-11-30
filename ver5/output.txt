@@ -1,0 +1,2100 @@
+Bigram Frequency
+ : 34777
+ but: 2022
+i have: 1687
+ that: 1577
+ thou: 732
+like a: 566
+ where: 435
+the world: 412
+ his: 370
+ thy: 301
+in thy: 265
+and i: 204
+and make: 172
+ from: 171
+when thou: 116
+edward : 102
+but as: 96
+who is: 94
+now the: 88
+i am: 83
+ arcite: 78
+[within ]: 72
+now is: 66
+let not: 61
+thou that: 61
+he is: 60
+but thou: 58
+ay and: 56
+thee with: 55
+[reads ]: 55
+my lord: 53
+ if: 50
+and being: 50
+old : 49
+ within: 49
+friar lawrence: 44
+give me: 41
+than thou: 41
+let my: 39
+] and: 36
+great a: 30
+ making: 29
+the grave: 28
+spring : 27
+for thy: 26
+eye : 25
+i bring: 24
+ still: 23
+thy sweet: 23
+with her: 19
+will show: 19
+in her: 18
+child of: 17
+where : 17
+¡± : 17
+this thy: 16
+that good: 15
+ and: 14
+if she: 14
+for now: 14
+[sings ]: 14
+in his: 13
+in the: 12
+ as: 12
+grave and: 11
+eye doth: 11
+ in: 11
+eyes : 11
+on to: 11
+when from: 11
+being so: 10
+and tender: 10
+of your: 10
+child and: 10
+have heard: 9
+full of: 9
+increase : 9
+or who: 9
+with that: 9
+then how: 9
+where every: 9
+[aside ]: 9
+cruel : 8
+[exeunt ]: 8
+swords : 8
+should by: 8
+might never: 8
+thou art: 8
+with your: 8
+break a: 8
+for thyself: 7
+decease : 7
+my hand: 7
+th¡¯ other: 7
+now she: 7
+his own: 7
+from her: 7
+before the: 6
+in hand: 6
+making a: 6
+it shall: 6
+sky : 6
+me : 6
+ ¡°why: 6
+what they: 6
+you may: 6
+[giving a: 6
+are free: 5
+he did: 5
+contracted to: 5
+done : 5
+brought up: 5
+father : 5
+ which: 5
+we desire: 5
+to lie: 5
+ground : 5
+thy beauty¡¯s: 5
+bright eyes: 5
+of his: 5
+ a: 5
+and not: 5
+tongue : 5
+thy foe: 5
+face thou: 5
+with self: 5
+so : 5
+with his: 5
+very day: 5
+[kneels ]: 5
+are gone: 4
+a present: 4
+i would: 4
+do fear: 4
+held : 4
+his tender: 4
+ well: 4
+his memory: 4
+my breast: 4
+the gaudy: 4
+our souls: 4
+you must: 4
+ ¡°it: 4
+not in: 4
+life for: 4
+the way: 4
+1 petitioner: 4
+and dumb: 4
+his blood: 3
+crown of: 3
+a thousand: 3
+again : 3
+for i¡¯ll: 3
+fire : 3
+lie : 3
+ would: 3
+to love: 3
+never die: 3
+¡± quoth: 3
+waste in: 3
+and all: 3
+how he: 3
+like the: 3
+retire : 3
+the red: 3
+art now: 3
+for his: 3
+within thine: 3
+she in: 3
+with weary: 3
+this fair: 3
+that bear: 3
+that his: 3
+nor my: 3
+that thou: 3
+upon that: 3
+[gives a: 3
+and child: 3
+come bring: 2
+at all: 2
+dost beguile: 2
+death and: 2
+his case: 2
+i did: 2
+face of: 2
+desire hath: 2
+¡°had i: 2
+make a: 2
+liv¡¯d and: 2
+a paper: 2
+as one: 2
+her bosom: 2
+cannot be: 2
+ are: 2
+altar and: 2
+ fame: 2
+disdains the: 2
+dead : 2
+creatures we: 2
+fee : 2
+do some: 2
+and horns: 2
+gone : 2
+head : 2
+gazed : 2
+and blushing: 2
+quoth she: 2
+no more: 2
+her senses: 2
+and never: 2
+again sir: 2
+more praise: 2
+one man¡¯s: 2
+or never: 2
+where all: 2
+fight in: 2
+and the: 2
+thought to: 2
+ her: 2
+like sluices: 2
+ ne¡¯er: 2
+where it: 2
+rain : 2
+she knows: 2
+thou viewest: 2
+she looks: 2
+ or: 2
+reason : 2
+ to: 2
+the honey: 2
+not be: 2
+ my: 2
+once more: 2
+words to: 2
+sweet as: 2
+seen the: 2
+dost thou: 2
+she ¡°this: 2
+upon the: 2
+with the: 2
+not to: 2
+¡°art thou: 2
+ o: 2
+not for: 2
+that from: 2
+on it: 2
+look how: 2
+or at: 2
+worse than: 2
+speak fair: 2
+self for: 2
+see his: 2
+still lives: 2
+till his: 2
+not joy: 2
+well that: 2
+that they: 2
+the cry: 2
+upon thy: 2
+very very: 2
+was thy: 2
+where they: 2
+with thy: 2
+would they: 2
+which they: 2
+you my: 2
+your day: 2
+12 : 2
+24 : 2
+36 : 2
+48 : 2
+60 : 2
+72 : 2
+96 : 2
+[exeunt baptista: 2
+[exit bianca: 2
+[cornets a: 2
+appears a: 2
+[as himself]: 2
+[exeunt carrying: 2
+[exit a: 2
+attendants &c: 2
+affect a: 2
+and a: 2
+are painted: 2
+by and: 2
+be called: 2
+and bone: 2
+a wicked: 2
+[exeunt fighting: 2
+and died: 2
+and scarce: 2
+good paulina: 2
+do and: 2
+are come: 2
+a cockle: 2
+dog crab: 2
+be done: 2
+find a: 2
+distance and: 2
+behold the: 2
+congealed blood: 1
+for passage: 1
+bid beware: 1
+brake she: 1
+circumstance with: 1
+black fac¡¯d: 1
+dew bedabbled: 1
+632 nor: 1
+608 her: 1
+commands mine: 1
+496 but: 1
+433 that: 1
+before one: 1
+bud before: 1
+go and: 1
+a foe: 1
+base he: 1
+eyes blaze: 1
+be fed: 1
+beauty breedeth: 1
+compact of: 1
+did crave: 1
+a ragged: 1
+bold fac¡¯d: 1
+course and: 1
+child the: 1
+corrupted blood: 1
+dost defend: 1
+ever cured: 1
+concludes the: 1
+become the: 1
+dolour dwelled: 1
+carved some: 1
+face a: 1
+either ciphered: 1
+besides she: 1
+cradle take: 1
+a child: 1
+gives a: 1
+and grave: 1
+and death: 1
+advantage thee: 1
+and hearing: 1
+divorce of: 1
+as seeming: 1
+embarked friend: 1
+comforteth like: 1
+772 for: 1
+but gold: 1
+daughters and: 1
+doth bring: 1
+656 this: 1
+620 his: 1
+bid good: 1
+his club: 1
+fair child: 1
+after fearing: 1
+a kind: 1
+and hope: 1
+channel of: 1
+breath and: 1
+¡°hard favour¡¯d: 1
+at these: 1
+and here: 1
+all effecting: 1
+is mated: 1
+dropp¡¯d a: 1
+did feed: 1
+for having: 1
+for increase: 1
+i fear¡¯d: 1
+counsel of: 1
+his loathsome: 1
+as fearful: 1
+as those: 1
+a wild: 1
+blush and: 1
+desperate courage: 1
+her blood: 1
+have a: 1
+are fix¡¯d: 1
+grin before: 1
+by smelling: 1
+done me: 1
+and unfinish¡¯d: 1
+a breath: 1
+destroyed the: 1
+is cracked: 1
+an all: 1
+by whose: 1
+bed here: 1
+by death: 1
+be where: 1
+false and: 1
+1129 a: 1
+hedge because: 1
+976 for: 1
+her babe: 1
+at random: 1
+908 her: 1
+but back: 1
+in haste: 1
+burnish¡¯d gold: 1
+discovery of: 1
+i dare: 1
+i hate: 1
+i gave: 1
+752 that: 1
+frenzies wood: 1
+fram¡¯d thee: 1
+and going: 1
+encounter dare: 1
+¡°alas he: 1
+bow back: 1
+imaginary she: 1
+i make: 1
+clouded with: 1
+cunning love: 1
+a life: 1
+endowed she: 1
+having climbed: 1
+checked with: 1
+become a: 1
+be fickle: 1
+day should: 1
+is cold: 1
+grace and: 1
+hangs a: 1
+cheeks replenish: 1
+bashful innocence: 1
+conceit and: 1
+did belong: 1
+his deed: 1
+cattle nigh: 1
+amber crystal: 1
+business i: 1
+infancy and: 1
+curtain and: 1
+her dead: 1
+heard the: 1
+is dead: 1
+and hath: 1
+he beheld: 1
+lion walk¡¯d: 1
+are blown: 1
+a king: 1
+dead black: 1
+a weak: 1
+death she: 1
+despair and: 1
+985 not: 1
+hath a: 1
+greater fee: 1
+dissolves with: 1
+hard embracing: 1
+hence and: 1
+just before: 1
+dull earth: 1
+horse and: 1
+like feather¡¯d: 1
+at stirring: 1
+is standing: 1
+high desire: 1
+doth he: 1
+bearing earth: 1
+cries ¡°some: 1
+and high: 1
+hemm¡¯d thee: 1
+have hemm¡¯d: 1
+dissolv¡¯d and: 1
+cressid¡¯s rule: 1
+advantage to: 1
+his desire: 1
+happier be: 1
+die single: 1
+desire increase: 1
+father¡¯s bed: 1
+and full: 1
+¡°wonder of: 1
+late excell¡¯d: 1
+her face: 1
+load before: 1
+i were: 1
+desperate in: 1
+assuage : 1
+his fume: 1
+¡°stand i: 1
+hoof he: 1
+forth she: 1
+needs a: 1
+himself were: 1
+each cheek: 1
+forth the: 1
+lucrece and: 1
+¡°then be: 1
+amazedly in: 1
+all enraged: 1
+a famine: 1
+issue of: 1
+breach appears: 1
+her head: 1
+chequer¡¯d with: 1
+no cause: 1
+he gave: 1
+he had: 1
+flatly falleth: 1
+his meaning: 1
+his stealing: 1
+double lock: 1
+i deaf: 1
+music and: 1
+a tongue: 1
+a water: 1
+a knave: 1
+come valentine: 1
+a more: 1
+it should: 1
+breathing while: 1
+blasted in: 1
+have kill¡¯d: 1
+been tooth¡¯d: 1
+hath kill¡¯d: 1
+bonnet on: 1
+lurk¡¯d like: 1
+being open¡¯d: 1
+his throne: 1
+her haste: 1
+destinies will: 1
+beware then: 1
+an infant¡¯s: 1
+he liv¡¯d: 1
+and grim: 1
+and asks: 1
+has here: 1
+life deceived: 1
+be one: 1
+every little: 1
+author of: 1
+immure herself: 1
+purchase if: 1
+borrow¡¯d all: 1
+faintly she: 1
+her again: 1
+berry breaks: 1
+birds : 1
+a red: 1
+nurse and: 1
+and nothing: 1
+now press¡¯d: 1
+and burden¡¯d: 1
+jot diminish¡¯d: 1
+bed : 1
+bondage in: 1
+petty bondage: 1
+[they curtsy: 1
+in niggarding: 1
+abundance lies: 1
+herself and: 1
+a purple: 1
+1152 : 1
+broken : 1
+lay spill¡¯d: 1
+dry combustious: 1
+and sire: 1
+courage to: 1
+old become: 1
+hereafter shall: 1
+lo here: 1
+ears a: 1
+confess : 1
+his flank: 1
+for a: 1
+beheld his: 1
+looks reviveth: 1
+before he: 1
+passage yield: 1
+for from: 1
+heavenly tune: 1
+our desire: 1
+is played: 1
+blessed souls: 1
+flower to: 1
+cheeks and: 1
+1164 : 1
+subject and: 1
+sight beguile: 1
+end : 1
+back retires: 1
+because the: 1
+some brake: 1
+milch doe: 1
+rings a: 1
+offices of: 1
+here in: 1
+crops the: 1
+he himself: 1
+ teaching: 1
+it make: 1
+close his: 1
+by the: 1
+crystals where: 1
+from fairest: 1
+their course: 1
+grief to: 1
+in round: 1
+by her: 1
+of thine: 1
+be easily: 1
+be advis¡¯d: 1
+have no: 1
+a coal: 1
+sweet desire: 1
+day¡¯s delight: 1
+errand i: 1
+estimation which: 1
+fairest creatures: 1
+one minute: 1
+and ¡¯tis: 1
+since he: 1
+thou being: 1
+a kiss: 1
+cherries : 1
+him mulberries: 1
+spoke the: 1
+first should: 1
+both would: 1
+her mangling: 1
+being hit: 1
+whereat she: 1
+mortal kind: 1
+doth extenuate: 1
+adonis is: 1
+tongues and: 1
+foul creature: 1
+flatter thee: 1
+ being: 1
+adonis¡¯ voice: 1
+sound of: 1
+the dire: 1
+foul weather: 1
+ seeing: 1
+ ¡°hard: 1
+these sad: 1
+extremely still: 1
+sour faced: 1
+delivers it: 1
+tattered weed: 1
+beauty¡¯s field: 1
+i will: 1
+ there: 1
+ ¡°here: 1
+where abundance: 1
+time decease: 1
+beauty¡¯s rose: 1
+of blood: 1
+ since: 1
+to fire: 1
+rich enrich: 1
+beginning but: 1
+sweet beginning: 1
+be light: 1
+and every: 1
+glasses where: 1
+a heavy: 1
+more am: 1
+swine sheath¡¯d: 1
+fright the: 1
+and gently: 1
+through the: 1
+his eyes: 1
+green dropping: 1
+appears green: 1
+adonis¡¯ breath: 1
+comparing it: 1
+was melted: 1
+her side: 1
+deceiving when: 1
+be merciful: 1
+on love: 1
+every beauty: 1
+him shake: 1
+hounds are: 1
+hears the: 1
+doe whose: 1
+influence that: 1
+call : 1
+how ceremonious: 1
+holding their: 1
+an hour: 1
+¡°here was: 1
+as good: 1
+dwell : 1
+to all: 1
+it seems: 1
+fool to: 1
+teach the: 1
+body shall: 1
+pleasure shall: 1
+love¡¯s pleasure: 1
+is music: 1
+doubled : 1
+limb is: 1
+several limb: 1
+doth yield: 1
+feeling part: 1
+who overcome: 1
+in some: 1
+wildly breaketh: 1
+tidings of: 1
+all light: 1
+morning from: 1
+high : 1
+as noble: 1
+say emilia: 1
+fight bravely: 1
+blood : 1
+father¡¯s guise: 1
+dropping sap: 1
+fault cleanly: 1
+have singled: 1
+mingled 691: 1
+¡°sometime he: 1
+a labyrinth: 1
+outruns the: 1
+my faint: 1
+thought of: 1
+the fresh: 1
+the picture: 1
+thee i: 1
+news sometime: 1
+reigns disturbing: 1
+feed where: 1
+intendments break: 1
+a man¡¯s: 1
+besiege thy: 1
+be seen: 1
+is convey¡¯d: 1
+light chariot: 1
+not a: 1
+the shining: 1
+mingled so: 1
+nor pale: 1
+cheeks neither: 1
+of cares: 1
+lucrece set: 1
+fuel : 1
+affection¡¯s sentinel: 1
+disturbing jealousy: 1
+ thick: 1
+ o¡¯erworn: 1
+churl mak¡¯st: 1
+light¡¯s flame: 1
+course to: 1
+wherein i: 1
+new sprung: 1
+doth my: 1
+matter is: 1
+to mend: 1
+for looks: 1
+did honey: 1
+¡°but oh: 1
+left me: 1
+yet should: 1
+were i: 1
+my ears: 1
+discord heavenly: 1
+batt¡¯ry ¡±: 1
+prove nothing: 1
+queen of: 1
+open¡¯d their: 1
+to challenge: 1
+man¡¯s a: 1
+wine maria: 1
+a stoup: 1
+to immure: 1
+breast : 1
+smelling sire: 1
+here speak: 1
+offended for: 1
+aid their: 1
+night : 1
+good to: 1
+himself was: 1
+sweet smelling: 1
+himself is: 1
+and says: 1
+resembling well: 1
+destroy : 1
+the coward: 1
+to valour: 1
+fear to: 1
+of fear: 1
+quiet : 1
+his lips: 1
+to paphos: 1
+her light: 1
+piece is: 1
+and shoot: 1
+imagined : 1
+unseen save: 1
+edward¡¯s well: 1
+substantial fuel: 1
+skies : 1
+flower ¡±: 1
+heir might: 1
+riper should: 1
+thereby beauty¡¯s: 1
+away she: 1
+art the: 1
+wither in: 1
+ the: 1
+and be: 1
+bud and: 1
+waited on: 1
+being dead: 1
+with certain: 1
+heart commands: 1
+convey¡¯d 1192: 1
+guise : 1
+love shall: 1
+should most: 1
+should yet: 1
+ their: 1
+times and: 1
+thousand times: 1
+where lo: 1
+she told: 1
+as if: 1
+but he: 1
+to persuade: 1
+he thought: 1
+then i: 1
+sung : 1
+would adonis: 1
+being gone: 1
+brim the: 1
+his bonnet: 1
+when adonis: 1
+you need: 1
+poor world: 1
+of hot: 1
+heart to: 1
+sighs are: 1
+eye mistakes: 1
+where no: 1
+tears did: 1
+cleanly coined: 1
+not poison: 1
+ thus: 1
+not kiss: 1
+day and: 1
+to tears: 1
+sight : 1
+ by: 1
+not enjoy: 1
+suspect where: 1
+ruffian shall: 1
+dumb and: 1
+urchin snouted: 1
+he put: 1
+veil henceforth: 1
+anything ensuing: 1
+face seems: 1
+ finis: 1
+and yokes: 1
+hour wherein: 1
+thine but: 1
+to smell: 1
+which in: 1
+spill¡¯d : 1
+to the: 1
+and silly: 1
+down the: 1
+woe : 1
+she hies: 1
+thy light¡¯s: 1
+means to: 1
+famine where: 1
+quickly is: 1
+their mistress: 1
+doves by: 1
+in this: 1
+smell : 1
+death doth: 1
+the wise: 1
+the bottom: 1
+jealousy : 1
+love hereafter: 1
+sorrow on: 1
+herself beheld: 1
+lies : 1
+hand and: 1
+tooth¡¯d like: 1
+teeth at: 1
+true ¡¯tis: 1
+him and: 1
+took : 1
+the fishes: 1
+shadow in: 1
+should dry: 1
+nor veil: 1
+died with: 1
+whose tongue: 1
+viewing : 1
+gashes where: 1
+so steadfastly: 1
+one shoulder: 1
+the wide: 1
+the heart: 1
+haste unfortunately: 1
+so light: 1
+unwitnessed with: 1
+dead with: 1
+fear whenas: 1
+of them: 1
+pass to: 1
+scorning it: 1
+labour to: 1
+far off: 1
+striving who: 1
+have fled: 1
+thou shouldst: 1
+beauty thou: 1
+¡± thus: 1
+them ¡¯tis: 1
+gentle chase: 1
+wreath¡¯d up: 1
+hollow cradle: 1
+head the: 1
+the blood: 1
+sprung up: 1
+flower sprung: 1
+measures 1148: 1
+his woe: 1
+heavy tale: 1
+his the: 1
+his prey: 1
+the wolf: 1
+who first: 1
+ under: 1
+lost : 1
+express my: 1
+troubled : 1
+hurt she: 1
+their light: 1
+shelly cave: 1
+of trophies: 1
+hath done: 1
+truth i: 1
+hope make: 1
+the sluttish: 1
+which her: 1
+her eye: 1
+hears some: 1
+overcome as: 1
+best work: 1
+weeping : 1
+he be: 1
+the violet: 1
+rose smell: 1
+hateful divorce: 1
+how the: 1
+here she: 1
+¡¯gainst venom¡¯d: 1
+oh then: 1
+what of: 1
+¡± ¡°no: 1
+hate the: 1
+struggle for: 1
+with list¡¯ning: 1
+do they: 1
+then do: 1
+ danger: 1
+feel¡¯st it: 1
+proving his: 1
+seen : 1
+the empty: 1
+sweet love¡¯s: 1
+¡¯tis thine: 1
+to grow: 1
+sap which: 1
+the stalk: 1
+ they: 1
+in quiet: 1
+or low: 1
+i prophesy: 1
+time ¡±: 1
+herself herself: 1
+she lifts: 1
+herb leaf: 1
+whose wonted: 1
+wide wound: 1
+into the: 1
+bloody view: 1
+thou destroy: 1
+if thou: 1
+sun : 1
+ whoever: 1
+but ill: 1
+what virtue: 1
+world¡¯s fresh: 1
+self substantial: 1
+flame with: 1
+feed¡¯st thy: 1
+shall not: 1
+this hollow: 1
+rose might: 1
+and so: 1
+mistress mounted: 1
+¡¯tis thy: 1
+vapour from: 1
+ put: 1
+mad and: 1
+of riot: 1
+with jealousy: 1
+the coffer: 1
+ran upon: 1
+sharp air: 1
+melt at: 1
+mad that: 1
+this solemn: 1
+suggestion gives: 1
+smother¡¯d up: 1
+comes again: 1
+¡°how much: 1
+love¡¯s decease: 1
+the other: 1
+tears in: 1
+rigour ¡±: 1
+work is: 1
+sighing it: 1
+with dreadful: 1
+long have: 1
+of respects: 1
+insulter willeth: 1
+lips are: 1
+like she: 1
+like bee: 1
+my honey: 1
+that senseless: 1
+impious breach: 1
+through night¡¯s: 1
+night as: 1
+unwholesome breaths: 1
+to meet: 1
+some purer: 1
+heart by: 1
+like water: 1
+perpetual : 1
+this accomplishment: 1
+sin than: 1
+tarquin fares: 1
+lust the: 1
+nightly linen: 1
+voice controlled: 1
+lust are: 1
+shameful doom: 1
+thy fouler: 1
+who seek: 1
+flood black: 1
+will prison: 1
+both too: 1
+yet unborn: 1
+no vaunter: 1
+oped their: 1
+shut on: 1
+to commiseration: 1
+proud livery: 1
+own bright: 1
+that thereby: 1
+their queen: 1
+weary of: 1
+throbbing heart: 1
+the next: 1
+know it: 1
+little grief: 1
+drops upon: 1
+winters shall: 1
+when forty: 1
+be : 1
+not die: 1
+ dumbly: 1
+ who: 1
+ugly night: 1
+brain 1040: 1
+not she: 1
+to wail: 1
+rail¡¯d on: 1
+no pity: 1
+gently now: 1
+note the: 1
+blest 328: 1
+pleading may: 1
+my sweet: 1
+heart shall: 1
+says within: 1
+bows her: 1
+of war: 1
+child 1152: 1
+old the: 1
+top o¡¯erstraw¡¯d: 1
+spite : 1
+stains her: 1
+ witness: 1
+ ¡°to: 1
+weep : 1
+strive to: 1
+oft the: 1
+she reprehends: 1
+over one: 1
+the riper: 1
+the worn: 1
+while others: 1
+the sour: 1
+hear them: 1
+action might: 1
+her from: 1
+make discovery: 1
+some present: 1
+and it: 1
+one of: 1
+have them: 1
+girl when: 1
+¡°but tell: 1
+¡°my girl: 1
+others¡¯ smarts: 1
+pretty while: 1
+mistress¡¯ sky: 1
+maid with: 1
+thy rest: 1
+thy right: 1
+grow unto: 1
+blood that: 1
+shall suspect: 1
+treasures : 1
+the strongest: 1
+the truest: 1
+sweets that: 1
+ sorrow: 1
+effect 1132: 1
+she takes: 1
+the entertainment: 1
+ripe red: 1
+prey : 1
+the tiger: 1
+treasure hast: 1
+turn¡¯d to: 1
+salt tears: 1
+this mutiny: 1
+withdrew : 1
+stoops not: 1
+chaos comes: 1
+mutual overthrow: 1
+without ten: 1
+but act: 1
+till manly: 1
+this starts: 1
+hast torn: 1
+semblance my: 1
+unsheathed : 1
+she utters: 1
+she turns: 1
+being part: 1
+these secrets: 1
+that or: 1
+certain ribbons: 1
+got so: 1
+quite gone: 1
+was : 1
+empty skies: 1
+sweet issue: 1
+ sweet: 1
+shape came: 1
+their fixed: 1
+skies were: 1
+after slew: 1
+sinon whose: 1
+this mild: 1
+saint like: 1
+no guilty: 1
+troy¡¯s painted: 1
+troy had: 1
+ troy: 1
+son¡¯s desire: 1
+son the: 1
+sire the: 1
+this load: 1
+this sad: 1
+prayers urgeth: 1
+enter this: 1
+feel her: 1
+weak brain¡¯s: 1
+ugly in: 1
+sleep by: 1
+this tumult: 1
+their round: 1
+veins as: 1
+their lord: 1
+threads played: 1
+the bed: 1
+the tuft: 1
+ dwelt: 1
+sprites you¡¯re: 1
+your sprites: 1
+so ¡¯tis: 1
+this the: 1
+their love: 1
+that love: 1
+they late: 1
+they are: 1
+this she: 1
+like him: 1
+ ¡°but: 1
+that some: 1
+tears gone: 1
+the eye: 1
+then she: 1
+they have: 1
+that the: 1
+each part: 1
+whose tender: 1
+to be: 1
+fool was: 1
+that she: 1
+she unweaves: 1
+the one: 1
+their tide: 1
+tears make: 1
+flood gates: 1
+eyes that: 1
+ebon dart: 1
+thou pluck¡¯st: 1
+from his: 1
+times ¡°woe: 1
+till the: 1
+fair suns: 1
+not ask: 1
+mine ill: 1
+that live: 1
+thou take: 1
+yokes her: 1
+lo in: 1
+wherein they: 1
+looks upon: 1
+looks again: 1
+themselves withdrew: 1
+view : 1
+to wet: 1
+¡°poor flower: 1
+war and: 1
+1156 perverse: 1
+strongest body: 1
+made when: 1
+worth held: 1
+small worth: 1
+chariot quickly: 1
+is as: 1
+it is: 1
+¡°but this: 1
+them with: 1
+the silly: 1
+would leave: 1
+they both: 1
+nor sun: 1
+what face: 1
+twain each: 1
+have wept: 1
+when the: 1
+will have: 1
+hate not: 1
+have lent: 1
+gave you: 1
+was the: 1
+one arm: 1
+sport ¡±: 1
+hour but: 1
+cloy thy: 1
+that by: 1
+now no: 1
+out in: 1
+loving swine: 1
+hiss you: 1
+you and: 1
+hast thou: 1
+die by: 1
+more leap: 1
+tributary subject: 1
+the view: 1
+light 1028: 1
+she humbly: 1
+love¡¯s flower: 1
+shall rock: 1
+pluck down: 1
+yet be: 1
+would bring: 1
+would sing: 1
+ ¡°my: 1
+joints forget: 1
+leap her: 1
+women¡¯s wit: 1
+gentle shadow: 1
+thee quickly: 1
+golden arrow: 1
+eyes they: 1
+ground below: 1
+yet she: 1
+¡°oh thou: 1
+echoes twenty: 1
+lust¡¯s winter: 1
+love for: 1
+on to: 1
+your idle: 1
+ ¡°nay: 1
+oil to: 1
+sore sick: 1
+ ¡°by: 1
+ ¡°say: 1
+voice hath: 1
+waxeth strong: 1
+youth¡¯s fair: 1
+¡°and thou: 1
+sweet look: 1
+like her: 1
+lowly lover: 1
+wayward boy: 1
+mind 340: 1
+mind 308: 1
+knew his: 1
+on so: 1
+244 foreknowing: 1
+232 graze: 1
+of no: 1
+mute 208: 1
+up thy: 1
+yet are: 1
+pity ¡±: 1
+were ready: 1
+which long: 1
+¡°if thou: 1
+kissing speaks: 1
+lend her: 1
+16 here: 1
+land for: 1
+which being: 1
+loyal fear: 1
+where wouldst: 1
+reft from: 1
+shall dwell: 1
+face why: 1
+rob him: 1
+wind doth: 1
+noteth 1057: 1
+their dark: 1
+which with: 1
+rule them: 1
+sought still: 1
+mortal vigour: 1
+stock shall: 1
+these kick: 1
+fair lady: 1
+1192 holding: 1
+thus weary: 1
+there shall: 1
+love best: 1
+that all: 1
+lamps burnt: 1
+lids that: 1
+this foul: 1
+lamb that: 1
+on : 1
+kiss you: 1
+lead melt: 1
+mine eyes: 1
+men¡¯s minds: 1
+leaps that: 1
+mortal things: 1
+lives sweet: 1
+tender churl: 1
+her by: 1
+most just: 1
+staring ruffian: 1
+make most: 1
+him by: 1
+youth with: 1
+they him: 1
+1085 lurk¡¯d: 1
+lose you: 1
+seems twain: 1
+nature cares: 1
+power 944: 1
+him thy: 1
+that aim: 1
+tells them: 1
+self too: 1
+right 1184: 1
+love how: 1
+join they: 1
+passion labours: 1
+rest 784: 1
+will fall: 1
+world will: 1
+to so: 1
+living sorrow: 1
+of it: 1
+pants beats: 1
+to do: 1
+whose full: 1
+like glow: 1
+painted grapes: 1
+lives th¡¯: 1
+queen means: 1
+swift aid: 1
+the top: 1
+spear 1112: 1
+suing 356: 1
+suit 336: 1
+run or: 1
+proud sight: 1
+say¡± 284: 1
+scorn 252: 1
+sprung flower: 1
+round drops: 1
+cold 1124: 1
+sharp spear: 1
+sun nor: 1
+sweet their: 1
+with pain: 1
+seen her: 1
+which seen: 1
+lure away: 1
+like many: 1
+resembling parasites: 1
+teen 808: 1
+there 780: 1
+sound enter: 1
+you twenty: 1
+lips obey: 1
+taste 528: 1
+say for: 1
+thine 500: 1
+shrewd tutor: 1
+weary even: 1
+water seen: 1
+words begun: 1
+taste 445: 1
+touch 440: 1
+see nor: 1
+thee 404: 1
+pray you: 1
+lest thy: 1
+thee ¡±: 1
+look thy: 1
+361 a: 1
+saw her: 1
+sees her: 1
+them 324: 1
+teeth 269: 1
+rushes snorts: 1
+stray lower: 1
+tears 192: 1
+them 176: 1
+theft 160: 1
+thee 156: 1
+yearly grow: 1
+time 132: 1
+turn 92: 1
+she for: 1
+shall never: 1
+loath¡¯d satiety: 1
+rein his: 1
+vow to: 1
+nor how: 1
+not how: 1
+show her: 1
+roman gods: 1
+rich gems: 1
+with sun: 1
+thou use: 1
+warm when: 1
+silver doves: 1
+1189 and: 1
+1180 and: 1
+1172 and: 1
+1141 bud: 1
+1069 and: 1
+that her: 1
+dead 1060: 1
+subject quakes: 1
+1028 and: 1
+this far: 1
+thee for: 1
+931 hateful: 1
+signs draws: 1
+them fear: 1
+some kiss: 1
+shows most: 1
+seems most: 1
+1148 the: 1
+1144 the: 1
+1124 she: 1
+thus was: 1
+true thus: 1
+tender years: 1
+1088 the: 1
+would peep: 1
+1078 the: 1
+eye 1065: 1
+your pawn: 1
+those hours: 1
+self dost: 1
+sums yet: 1
+through windows: 1
+thee calls: 1
+thou sort: 1
+where their: 1
+568 affection: 1
+will bear: 1
+with spur: 1
+hies 1189: 1
+was his: 1
+wet his: 1
+well his: 1
+woeful words: 1
+wept was: 1
+hit 1033: 1
+wail his: 1
+which knows: 1
+whose swift: 1
+will not: 1
+the new: 1
+1168 resembling: 1
+world what: 1
+till now: 1
+wound wept: 1
+wound that: 1
+was but: 1
+was not: 1
+what dost: 1
+worm what: 1
+side lay: 1
+just 1156: 1
+settled equally: 1
+sight they: 1
+weed thou: 1
+stifle beauty: 1
+865 musing: 1
+so ¡±: 1
+she lay: 1
+you is: 1
+sun by: 1
+story aptly: 1
+sum my: 1
+thee day: 1
+take thy: 1
+the boy: 1
+the day: 1
+that day: 1
+their enemy: 1
+the sky: 1
+thee thy: 1
+would blow: 1
+lead 1072: 1
+wind now: 1
+dry 964: 1
+eye 816: 1
+760 if: 1
+712 applying: 1
+him 577: 1
+will draw: 1
+well knew: 1
+it 412: 1
+368 would: 1
+340 taking: 1
+words allow: 1
+up ¡±: 1
+with slow: 1
+wail th¡¯: 1
+year thou: 1
+woes new: 1
+unused beauty: 1
+mind 1016: 1
+811 of: 1
+what wax: 1
+me 196: 1
+will fix: 1
+view thy: 1
+remember ¡°ston¡¯d¡±: 1
+virtue bounty: 1
+vows may: 1
+very envy: 1
+vent thy: 1
+voice lady: 1
+vestal livery: 1
+very prey: 1
+virtue rudely: 1
+world away: 1
+was by: 1
+with ugly: 1
+will say: 1
+wilt buy: 1
+windows faintly: 1
+1184 lo: 1
+1112 who: 1
+one 1069: 1
+1040 who: 1
+1036 so: 1
+1016 to: 1
+790 i: 1
+637 beauty: 1
+joy 600: 1
+that ¡°once¡±: 1
+what¡¯s i¡¯: 1
+your sex: 1
+title ¡°ever¡±: 1
+you tax: 1
+that ¡°many¡±: 1
+zeal now: 1
+10 certain: 1
+7 duke: 1
+will buzz: 1
+you mix: 1
+the ¡°why¡±: 1
+will coz: 1
+the ¡°not¡±: 1
+peep 1088: 1
+yet ¡±: 1
+hit 940: 1
+664 whose: 1
+616 whose: 1
+292 so: 1
+239 no: 1
+one 228: 1
+224 sometimes: 1
+4 sick: 1
+¡°o ¡±: 1
+yoke thy: 1
+yoke they: 1
+young play: 1
+yet say: 1
+you¡± many: 1
+you pay: 1
+your lady: 1
+344 to: 1
+332 so: 1
+192 : 1
+180 : 1
+168 : 1
+156 : 1
+144 : 1
+132 : 1
+120 : 1
+108 : 1
+ 12: 1
+11 : 1
+ 11: 1
+10 : 1
+ 10: 1
+1081 nor: 1
+1060 her: 1
+1009 her: 1
+920 against: 1
+404 to: 1
+288 : 1
+276 : 1
+264 : 1
+256 ¡°pity: 1
+252 : 1
+228 : 1
+216 : 1
+204 : 1
+red 116: 1
+ 24: 1
+23 : 1
+ 23: 1
+22 : 1
+ 22: 1
+21 : 1
+ 21: 1
+20 : 1
+ 20: 1
+ 2: 1
+sire 1160: 1
+776 bewitching: 1
+512 to: 1
+396 : 1
+384 : 1
+348 : 1
+336 : 1
+324 : 1
+312 : 1
+300 : 1
+sky 184: 1
+ 36: 1
+35 : 1
+ 35: 1
+34 : 1
+ 34: 1
+33 : 1
+ 33: 1
+32 : 1
+ 32: 1
+31 : 1
+ 31: 1
+30 : 1
+ 30: 1
+ 3: 1
+1136 it: 1
+796 which: 1
+492 : 1
+480 : 1
+468 : 1
+456 : 1
+448 : 1
+420 : 1
+408 : 1
+160 narcissus: 1
+ 48: 1
+47 : 1
+ 47: 1
+46 : 1
+ 46: 1
+45 : 1
+ 45: 1
+44 : 1
+ 44: 1
+43 : 1
+ 43: 1
+42 : 1
+ 42: 1
+41 : 1
+ 41: 1
+40 : 1
+ 40: 1
+ 4: 1
+1033 shrinks: 1
+784 no: 1
+own 776: 1
+588 : 1
+564 : 1
+552 : 1
+540 : 1
+528 : 1
+516 : 1
+504 : 1
+red 468: 1
+460 or: 1
+sky 348: 1
+use 164: 1
+127 shows: 1
+2 messenger: 1
+ 154: 1
+ 153: 1
+ 152: 1
+ 151: 1
+ 150: 1
+59 : 1
+ 59: 1
+58 : 1
+ 58: 1
+57 : 1
+ 57: 1
+56 : 1
+ 56: 1
+55 : 1
+ 55: 1
+54 : 1
+ 54: 1
+53 : 1
+ 53: 1
+52 : 1
+ 52: 1
+51 : 1
+ 51: 1
+50 : 1
+ 50: 1
+ 5: 1
+1160 subject: 1
+820 so: 1
+696 : 1
+684 : 1
+672 : 1
+660 : 1
+624 : 1
+612 : 1
+600 : 1
+561 or: 1
+ 60: 1
+ 6: 1
+wear 1081: 1
+928 so: 1
+792 : 1
+780 : 1
+768 : 1
+756 : 1
+744 : 1
+732 : 1
+720 : 1
+708 : 1
+196 and: 1
+176 and: 1
+172 and: 1
+104 and: 1
+ 72: 1
+71 : 1
+ 71: 1
+70 : 1
+ 70: 1
+ 7: 1
+1105 whose: 1
+¡± 1024: 1
+888 : 1
+876 : 1
+852 : 1
+840 : 1
+828 : 1
+816 : 1
+804 : 1
+800 love¡¯s: 1
+764 or: 1
+saw 604: 1
+220 and: 1
+148 love: 1
+139 mine: 1
+116 the: 1
+8 stain: 1
+6 marquess: 1
+2s 6d: 1
+2s 2d: 1
+[to cymbeline]: 1
+89 : 1
+ 89: 1
+88 : 1
+ 88: 1
+87 : 1
+ 87: 1
+86 : 1
+ 86: 1
+85 : 1
+ 85: 1
+84 : 1
+ 84: 1
+83 : 1
+ 83: 1
+82 : 1
+ 82: 1
+81 : 1
+ 81: 1
+80 : 1
+ 80: 1
+ 8: 1
+¡± 1164: 1
+1132 ¡°wonder: 1
+¡± 1120: 1
+996 : 1
+972 : 1
+960 : 1
+948 : 1
+936 : 1
+900 : 1
+824 or: 1
+380 and: 1
+208 give: 1
+ 96: 1
+95 : 1
+ 95: 1
+94 : 1
+ 94: 1
+93 : 1
+ 93: 1
+92 : 1
+ 92: 1
+91 : 1
+ 91: 1
+90 : 1
+ 90: 1
+ 9: 1
+so 840: 1
+sun 800: 1
+484 and: 1
+440 and: 1
+388 the: 1
+¡± 216: 1
+¡± 24: 1
+1120 with: 1
+1053 with: 1
+see 952: 1
+532 and: 1
+488 were: 1
+452 like: 1
+¡± 384: 1
+5s 8d: 1
+[whispering ]: 1
+992 it: 1
+925 at: 1
+844 their: 1
+688 and: 1
+592 she: 1
+580 the: 1
+577 the: 1
+¡± 448: 1
+¡± 408: 1
+52 he: 1
+¡± 48: 1
+[to bona: 1
+way 704: 1
+700 and: 1
+691 the: 1
+668 the: 1
+628 the: 1
+604 the: 1
+¡± 536: 1
+ *: 1
+[snatches a: 1
+attendants ]: 1
+arviragus ]: 1
+[to celia: 1
+[exeunt cleopatra: 1
+way 828: 1
+748 are: 1
+740 the: 1
+716 the: 1
+¡± 652: 1
+¡± 612: 1
+[to crab: 1
+[to diana: 1
+916 and: 1
+913 and: 1
+896 she: 1
+892 like: 1
+872 some: 1
+848 like: 1
+808 mine: 1
+¡± 768: 1
+¡± 720: 1
+500 hath: 1
+[they advance: 1
+[exit arcite: 1
+[exit valentine: 1
+[calling ]: 1
+[waking ]: 1
+[drawing ]: 1
+[to helena: 1
+988 the: 1
+956 the: 1
+944 the: 1
+¡± 852: 1
+649 doth: 1
+1100 when: 1
+1024 even: 1
+1000 then: 1
+723 rich: 1
+704 each: 1
+596 all: 1
+584 tell: 1
+572 foul: 1
+376 then: 1
+castalia plena: 1
+] come: 1
+affects a: 1
+certain a: 1
+[here the: 1
+] arcite: 1
+[comes forward: 1
+command a: 1
+carriage a: 1
+[to agamemnon]: 1
+[to bianca: 1
+gratiano ]: 1
+cousin austria: 1
+and damn¡¯d: 1
+all stain¡¯d: 1
+am and: 1
+a band: 1
+and aw¡¯d: 1
+32 who: 1
+a land: 1
+and armed: 1
+a hand: 1
+an unpractised: 1
+a loathed: 1
+a public: 1
+and talked: 1
+a wearied: 1
+a bawd: 1
+add a: 1
+black a: 1
+dream a: 1
+and called: 1
+and stall¡¯d: 1
+and daff¡¯d: 1
+as vaded: 1
+and prais¡¯d: 1
+as warmed: 1
+and dialogued: 1
+attended a: 1
+and damned: 1
+a maund: 1
+a platted: 1
+are measured: 1
+again assured: 1
+1 : 1
+be blasted: 1
+be waited: 1
+1057 over: 1
+and blood: 1
+a late: 1
+a false: 1
+728 till: 1
+a pale: 1
+400 who: 1
+a jade: 1
+a date: 1
+2 : 1
+be cause: 1
+1012 tells: 1
+1004 ¡¯tis: 1
+a second: 1
+audience and: 1
+breed a: 1
+and backward: 1
+approach of: 1
+barren a: 1
+advantage of: 1
+bare boned: 1
+begot bastard: 1
+and bane: 1
+3 : 1
+a breathing: 1
+art dead: 1
+and lacking: 1
+100 yet: 1
+above compare: 1
+a flaming: 1
+came a: 1
+and gazing: 1
+blood changed: 1
+attends and: 1
+are brief: 1
+called a: 1
+are raining: 1
+as shaming: 1
+being clouded: 1
+cursed blessed: 1
+cheek a: 1
+all among: 1
+both enchanted: 1
+a fickle: 1
+born before: 1
+all cure: 1
+groan a: 1
+called a: 1
+affect me: 1
+combat me: 1
+abroad and: 1
+been recovered: 1
+cornets a: 1
+[to emilia: 1
+craves a: 1
+born child: 1
+all admired: 1
+be recalled: 1
+degenerate and: 1
+come a: 1
+constant he: 1
+and adored: 1
+but cold: 1
+a picture: 1
+4 : 1
+all eating: 1
+blood and: 1
+and dire: 1
+be raging: 1
+be sparing: 1
+and servile: 1
+behind some: 1
+be wreak¡¯d: 1
+are both: 1
+drop beside: 1
+finds a: 1
+are afraid: 1
+856 who: 1
+and both: 1
+bright a: 1
+and therefore: 1
+and ease: 1
+coward captive: 1
+assailed the: 1
+all found: 1
+dialect and: 1
+aside the: 1
+an unspeakable: 1
+beyond the: 1
+abroad i: 1
+anything a: 1
+am ere: 1
+all both: 1
+flap dragon¡¯d: 1
+6 : 1
